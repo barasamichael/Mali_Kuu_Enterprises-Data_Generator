@@ -15,7 +15,7 @@ This repository is an extension of the Mali Kuu Enterprises Repository, which is
 ## Installation
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/barasa-michael/mali-kuu-mini-projects.git
+git clone https://github.com/barasamichael/Mali_Kuu_Enterprises-Data_Generator.git
 ```
 2. Install the required packages:
 ```bash

@@ -1,0 +1,17 @@
+roles = [
+    ["Inventory Manager", "Responsible for managing the stock levels and ordering new inventory when necessary", 23],
+    ["Warehouse Supervisor", "Supervises the day-to-day operations of the warehouse, including receiving and shipping of goods", 23],
+    ["Quality Control Inspector", "Inspects incoming and outgoing products to ensure they meet quality standards", 23],
+    ["Purchasing Coordinator", "Coordinates with suppliers to ensure timely delivery of materials and negotiates pricing", 23],
+    ["Inventory Control Analyst", "Analyzes inventory data to identify trends and recommend changes to inventory policies", 23],
+    ["Fulfillment Specialist", "Responsible for picking and packing customer orders for shipment", 23],
+    ["Receiving Clerk", "Receives incoming shipments and processes them for inventory", 23],
+    ["Shipping Clerk", "Processes outgoing shipments and ensures they are properly packaged and labeled", 23],
+    ["Returns Specialist", "Handles customer returns and ensures they are processed and restocked properly", 23],
+    ["Inventory Auditor", "Audits inventory records to ensure accuracy and identify discrepancies", 23],
+    ["Supply Chain Coordinator", "Coordinates with vendors and logistics providers to ensure timely delivery of goods", 23],
+    ["Order Picker", "Picks items from inventory to fulfill customer orders", 23],
+    ["Inventory Planner", "Plans and forecasts inventory needs based on sales and other data", 23],
+    ["Logistics Coordinator", "Coordinates the movement of goods between suppliers, warehouses, and customers", 23],
+    ["Warehouse Associate", "Performs general warehouse duties, including receiving, picking, and packing", 23],
+]

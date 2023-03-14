@@ -1,3 +1,14 @@
+
+Table of Contents
+=================
+
+* [Mali Kuu Enterprises Data Generator](#mali-kuu-enterprises-data-generator)
+   * [Installation](#installation)
+   * [Usage](#usage)
+      * [Populating Sample Data](#populating-sample-data)
+   * [Contribution](#contribution)
+   * [License](#license)
+
 # Mali Kuu Enterprises Data Generator
 This repository is an extension of the Mali Kuu Enterprises Repository, which is a stock and sales management system. This extension contains python scripts that populate sample data for the Mali Kuu Main Project. The purpose of these scripts is to help developers quickly set up test data in their Mali Kuu applications while familiarizing with the concepts.
 
